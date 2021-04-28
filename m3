@@ -1,0 +1,1 @@
+http://192.168.4.219:8096/emby/videos/7/stream.mp4?DeviceId=7dbac784-28d9-44c3-9541-7860f0711a12&MediaSourceId=d6feb7a4779ea979d652cdeb669979d8&Static=true&PlaySessionId=b98c03de47fc43ccb60ccc9634868cdc&api_key=b5e09cb67f264ad1aac4da47d8314cc6
